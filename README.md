@@ -1,3 +1,5 @@
+[![Go](https://github.com/Gumarapus-com/go_pkg_tutor/actions/workflows/go.yml/badge.svg)](https://github.com/Gumarapus-com/go_pkg_tutor/actions/workflows/go.yml)
+
 # Go-Pkg-Tutor
 
 This repository purpose just for Golang package development demo.
